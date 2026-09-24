@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+}
+
+img {
+    width: 246px;
+}
+
+#rodape {
+    background-color: rgb(235, 139, 187);
+    padding: 40px;
+    margin-top: -10px;
+    text-align: center;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(12, 12, 12);
+    font-size: 30px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
